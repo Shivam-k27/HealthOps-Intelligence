@@ -153,18 +153,34 @@ Analyzes:
 
 ---
 
-## Repository Structure
+## 📁 Repository Structure
 
-Healthcare-Analytics-Dashboard
-
-├── Dataset
-
-├── SQL
-
-├── Python
-
-├── Dashboard
-
+```text
+HealthOps-Intelligence/
+│
+├── Dashboard/
+│   ├── .gitkeep
+│   ├── Executive_summary.png
+│   ├── Financial_Analysis.png
+│   ├── Healthcare_Analytics.pbix
+│   └── Patient_Doctor_Analysis.png
+│
+├── Dataset/
+│   ├── appointments.csv
+│   ├── billing.csv
+│   ├── doctors.csv
+│   ├── patients.csv
+│   ├── README.md
+│   └── treatments.csv
+│
+├── Python/
+│   ├── .gitkeep
+│   └── Healthcare_Analytics_EDA.ipynb
+│
+├── SQL/
+│   ├── .gitkeep
+│   └── healthcare_analysis_queries.sql
+│
 └── README.md
 
 ---
