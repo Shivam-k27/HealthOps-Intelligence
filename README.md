@@ -183,28 +183,28 @@ HealthOps-Intelligence/
 │
 └── README.md
 
+```
 ---
 
 ## Skills Demonstrated
 
-* Data Cleaning
-* Exploratory Data Analysis (EDA)
-* SQL Querying
-* Data Visualization
-* KPI Development
-* DAX Measures
-* Healthcare Analytics
-* Business Intelligence
-* Dashboard Design
-* Data Storytelling
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- SQL Querying & Data Analysis
+- Python for Data Analysis
+- Data Visualization
+- Power BI & Dashboard Development
+- DAX & KPI Development
+- Healthcare Analytics
+- Business Intelligence
+- Dashboard Design
+- Data Storytelling
 
 ---
 
 ## Author
 
-**SHIVAM KUMAR**
+**Shivam Kumar**  
+B.Tech in Computer Science & Engineering | MANIT Bhopal
 
-B-Tech MANIT BHOPAL | Data Analyst
-
-Interested in Data Analytics, Business Intelligence, SQL, Python, Power BI, and Data-Driven Decision Making.
-
+Aspiring Data Analyst with an interest in Data Analytics, Business Intelligence, SQL, Python, Power BI, and data-driven decision-making.
