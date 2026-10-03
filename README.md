@@ -175,11 +175,11 @@ HealthOps-Intelligence/
 │
 ├── Python/
 │   ├── .gitkeep
-│   └── Healthcare_Analytics_EDA.ipynb
+│   └── HealthOps_Healthcare_EDA.ipynb
 │
 ├── SQL/
 │   ├── .gitkeep
-│   └── healthcare_analysis_queries.sql
+│   └── HealthOps_Healthcare_Analysis.sql
 │
 └── README.md
 
